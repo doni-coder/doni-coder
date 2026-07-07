@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Om Prakash (Doni) — a builder at heart.<br>⚡ Full-stack dev (React • Node • Next.js)<br>🤖 Learning AI, system design & scalable backend architectures<br>🚀 Love turning ideas into real products<br>🎯 Currently building an LMS + exploring WebRTC & Generative AI<br>💡 Always coding, learning, improving.
+👋 Hi, I’m Om Prakash (Doni) — <br>🚀 Love turning ideas into real products<br>.
 
 
 ## 🌐 Socials:
